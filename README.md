@@ -1,6 +1,6 @@
 # products
 
-A new Flutter application.
+A new Flutter application that contains New York Times best-sellers lazy loaded cached list with each book info.
 
 ## Getting Started
 
