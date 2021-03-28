@@ -1,0 +1,3 @@
+enum BottomBarType {
+  LIST,SECOND
+}
